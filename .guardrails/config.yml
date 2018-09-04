@@ -1,7 +1,4 @@
-some invalid yaml
-
 bundles:
   - javascript
   - python
-  - general
-  - IDONOTexist
+
